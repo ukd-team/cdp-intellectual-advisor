@@ -1,2 +1,2 @@
-# ukd-intellectual-advisor
+# cdp-intellectual-advisor
 group work
